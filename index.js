@@ -5,7 +5,7 @@ function combineUsers(...userArrays) {
   return {
     mergeDate,
     users: allUsers
-  }
+  };
 }
 
 module.exports = {
