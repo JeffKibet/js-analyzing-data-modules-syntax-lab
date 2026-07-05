@@ -4,6 +4,7 @@ function combineUsers(...userArrays) {
 
   return {
     mergeDate,
+    users: allUsers
   }
 }
 
